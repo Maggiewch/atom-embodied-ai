@@ -31,7 +31,9 @@
 
 5. **留痕**：把本次 sweep 结果（变了什么 / 无变化 / 待核）追加到 [sweep-log.md](sweep-log.md)，标日期。
 
-> 落库改完档案后，记得重建网页版：`node /Users/wchfting/Desktop/atom/_site/build.mjs`（让网站与档案同步）。
+> 落库改完档案后，重建并部署网页版：
+> `cd /Users/wchfting/Desktop/atom && node _site/build.mjs && git add -A && git commit -m "freshness update" && git push`
+> （推送后 GitHub Pages 约 1 分钟自动重新上线 https://maggiewch.github.io/atom-embodied-ai/ ）
 
 6. **报告 diff**：输出一段「本次变化摘要」——只讲**会改变判断**的变化（新轮落定、IPO 落地、盈利转向、重大订单、新入局），其余归档即可。
 

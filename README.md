@@ -8,7 +8,9 @@
 
 > 📌 **从这里开始读：[《Atom · 具身智能十大判断》](综述-十大判断.md)**——全局总览，一口气读完整个行业的脉搏。
 >
-> 🌐 **网页版**：双击 `_site/index.html` 即可在浏览器阅读全部章节（含侧栏导航 + 搜索 + 手机适配）。重建：`node _site/build.mjs`。
+> 🌐 **在线网页版（可分享）**：**https://maggiewch.github.io/atom-embodied-ai/** —— 任何人可访问，手机/电脑均适配。
+> 本地预览：双击 `_site/index.html`。
+> 更新部署：改完档案后 `node _site/build.mjs && git add -A && git commit -m "update" && git push`——推送后 GitHub Pages 约 1 分钟自动重新上线。
 
 ---
 
