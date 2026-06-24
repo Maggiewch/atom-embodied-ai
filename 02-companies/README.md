@@ -49,6 +49,16 @@
 | 16 | 星海图 Galaxea | 🇨🇳 | 全栈 | ⬜ |
 | 17 | Apptronik | 🇺🇸 | 本体（用 Gemini） | ✅ [档案](apptronik.md) |
 
+### 垂直应用 / RaaS 玩家（场景楔子样本）
+
+| # | 公司 | 国别 | 类型 | 档案 |
+|---|------|------|------|------|
+| 18 | Covariant | 🇺🇸 | 大脑/VLA（仓储拣选） | ✅ [档案](covariant.md) |
+| 19 | Chef Robotics | 🇺🇸 | 本体+大脑/RaaS（食品装配） | ✅ [档案](chef-robotics.md) |
+
+> 这两家是「数据飞轮楔子打法」的正反样本（Covariant 被亚马逊逆向收购掏空、Chef 独立加速），
+> 配套量具见 [智能机器时代 · 07 判断打分卡](../智能机器时代/07-判断打分卡.md)。
+
 ### 观察名单（按需建档）
 加速进化 Booster、众擎 EngineAI、Sanctuary AI、Generalist、
 逐际动力 LimX、它石智航、自变量 X Square、千寻智能 Spirit AI …
